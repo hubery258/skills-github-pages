@@ -1,5 +1,5 @@
 ---
-title: Welcome to my blog
+title: May the darkest pathway lead you to the mountain top.
 ---
 
 # Brief Introduction
